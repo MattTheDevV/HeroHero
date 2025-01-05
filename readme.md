@@ -71,5 +71,6 @@ You now have all the media content downloaded and saved locally in a structured 
 
 ## **Disclaimer**  
 This tool is intended for personal use only. Ensure you comply with HeroHero’s terms of service and only download content you have the right to access.  
+This tool was created in less than a day! Dont expect it to be super optimized!
 
 ---
